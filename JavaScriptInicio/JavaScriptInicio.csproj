@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="arrays.html" />
+    <Content Include="arrays.js" />
     <Content Include="Calcu.html" />
     <Content Include="calcu.js" />
     <Content Include="funciones.js" />
