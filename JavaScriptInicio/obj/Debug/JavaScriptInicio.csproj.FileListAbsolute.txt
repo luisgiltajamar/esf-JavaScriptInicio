@@ -1,0 +1,5 @@
+c:\users\curso\documents\visual studio 2012\Projects\JavaScriptInicio\JavaScriptInicio\bin\JavaScriptInicio.dll
+c:\users\curso\documents\visual studio 2012\Projects\JavaScriptInicio\JavaScriptInicio\bin\JavaScriptInicio.pdb
+c:\users\curso\documents\visual studio 2012\Projects\JavaScriptInicio\JavaScriptInicio\obj\Debug\JavaScriptInicio.csprojResolveAssemblyReference.cache
+c:\users\curso\documents\visual studio 2012\Projects\JavaScriptInicio\JavaScriptInicio\obj\Debug\JavaScriptInicio.dll
+c:\users\curso\documents\visual studio 2012\Projects\JavaScriptInicio\JavaScriptInicio\obj\Debug\JavaScriptInicio.pdb
