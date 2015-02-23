@@ -1,13 +1,13 @@
 ﻿var datos=[];
 
-function add() {
-    var tx = document.querySelector("#txtNombre").value;
+//function add() {
+//    var tx = document.querySelector("#txtNombre").value;
 
-    datos.push(tx);
+//    datos.push(tx);
 
-    document.querySelector("#txtNombre").value = "";
+//    document.querySelector("#txtNombre").value = "";
 
-}
+//}
 function listar() {
     
     var res = document.querySelector("#resultado");
@@ -21,7 +21,17 @@ function listar() {
     var btnAdd = document.querySelector("#btnAdd");
     var btnListar = document.querySelector("#btnListar");
 
-    btnAdd.addEventListener("click", add);
+    btnAdd.addEventListener("click", function () {
+        
+            var tx = document.querySelector("#txtNombre").value;
+
+            datos.push(tx);
+
+            document.querySelector("#txtNombre").value = "";
+
+        
+
+    });
     btnListar.addEventListener("click", listar);
 
 })();
